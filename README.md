@@ -2,5 +2,4 @@
 Lapis Application for meetings menagement, University Project
 
 ## Authors
-Andrea Gemelli
-Andrea Giuntini
+Andrea Gemelli, Andrea Giuntini
